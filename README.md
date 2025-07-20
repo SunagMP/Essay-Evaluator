@@ -51,5 +51,5 @@ This project is an AI-powered essay evaluation tool tailored for IPS, IAS, KPSC 
 Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/essay-evaluator.git
-cd essay-evaluator
+git clone https://github.com/SunagMP/Essay-Evaluator.git
+cd Essay-Evaluator
